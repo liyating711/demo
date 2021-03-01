@@ -1,0 +1,15 @@
+.app {
+  text-align: left;
+}
+
+.container {
+  border: 1px solid;
+}
+
+.ant-col {
+  padding: 20px;
+}
+
+[data-receive] {
+  border: 5px solid !important;
+}
